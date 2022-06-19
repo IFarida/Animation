@@ -1,6 +1,6 @@
 {
-    "name": "animated",
-    "short_name": "animated",
+    "name": "week17animation",
+    "short_name": "week17animation",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

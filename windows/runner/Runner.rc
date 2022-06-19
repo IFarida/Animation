@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "animated" "\0"
+            VALUE "FileDescription", "week17animation" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "animated" "\0"
+            VALUE "InternalName", "week17animation" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "animated.exe" "\0"
-            VALUE "ProductName", "animated" "\0"
+            VALUE "OriginalFilename", "week17animation.exe" "\0"
+            VALUE "ProductName", "week17animation" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
